@@ -1,0 +1,29 @@
+_repo: The-uncivilized-races-of-men-in-all-countries-of-the-world-vol-2-of-2-Being-a-comprehensive-a__69074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, John G.
+    gutenberg_agent_id: '55086'
+    url: http://www.gutenberg.org/2009/agents/55086
+description: ''
+gutenberg_issued: '2022-09-30'
+identifiers:
+  gutenberg: '69074'
+language: en
+pgterms:marc904: https://archive.org/details/uncivilizedraces00wood/page/n5 AND https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t7bs2f491&view=1up&seq=1
+pgterms:marc905: 20190904041438wood
+pgterms:marc906: '1875'
+pgterms:marc907: US
+production_note: Brian Coe, Harry Lamé and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United States :J. B. Burr Publishing Co,1875,pubdate 1878.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The uncivilized races of men in all countries of the world; vol. 2 of 2: Being
+  a comprehensive account of their manners and customs, and of their physical, social,
+  mental, moral and religious characteristics'
+url: http://www.gutenberg.org/ebooks/69074

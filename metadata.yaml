@@ -1,11 +1,16 @@
 _repo: The-uncivilized-races-of-men-in-all-countries-of-the-world-vol-2-of-2-Being-a-comprehensive-a__69074
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69074-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, John G.
     gutenberg_agent_id: '55086'
     url: http://www.gutenberg.org/2009/agents/55086
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69074#The-uncivilized-races-of-men-in-all-countries-of-the-world-vol-2-of-2-Being-a-comprehensive-a_
 gutenberg_issued: '2022-09-30'
 identifiers:
   gutenberg: '69074'
